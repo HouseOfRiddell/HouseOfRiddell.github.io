@@ -244,6 +244,11 @@ fieldset[disabled] .btn-xl.active {
 }
 
 /* Utilities */
+
+.DEBUG {
+  border: 5px solid red;
+}
+
 .text-bigger {
   font-size: 2em;
   line-height: 20px;

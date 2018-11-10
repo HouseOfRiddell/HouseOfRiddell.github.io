@@ -3,10 +3,10 @@
   <channel>
     <title>House of Riddell</title>
     <description>Only the best come through the house.</description>
-    <link>https://houseofriddell.github.io//</link>
-    <atom:link href="https://houseofriddell.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 10 Nov 2018 12:04:10 -0600</pubDate>
-    <lastBuildDate>Sat, 10 Nov 2018 12:04:10 -0600</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 10 Nov 2018 16:03:31 -0600</pubDate>
+    <lastBuildDate>Sat, 10 Nov 2018 16:03:31 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
   </channel>
