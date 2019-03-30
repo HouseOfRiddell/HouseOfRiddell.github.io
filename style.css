@@ -914,4 +914,22 @@ body {
     webkit-tap-highlight-color: #fed136;
 }
 
-
+.video-media-youtube-inner {
+    display: flex;
+  }
+  
+  .video-media-youtube-inner-vi01 {
+    flex: 1;
+    overflow: hidden;
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+  }
+  
+  .video-media-youtube-inner-vi01 iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
